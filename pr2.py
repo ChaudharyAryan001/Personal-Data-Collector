@@ -43,8 +43,9 @@ while True:
         
 
     elif select=="3":
-        print("Thank you for using the Student Data Organizer!")
+        print("You Are Exit ! Good Bye")
         break
 
     else:
         print("Invalid option, try again.")           
+
